@@ -1,6 +1,6 @@
 let hamburger = document.querySelector('.fas.fa-bars');
 
-let menu = document.querySelector('.hamburger-menu')
+let menu = document.querySelector('.hamburger-menu');
 
 // Apro nav
 hamburger.addEventListener('click', 
